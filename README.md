@@ -14,7 +14,7 @@ We will be releasing such curated alignments periodically to be used by the broa
 
 ## Lassa
 
-Alignment File: [LASV_2019-09-11.fasta](https://raw.githubusercontent.com/cvisb/curated-alignments/master/lassa/LASV_NP-GP_2019-09-11.fasta)
+Alignment File: [LASV_2019-09-11.fasta](https://github.com/cvisb/curated-alignments/blob/master/LASV_NP-GP_2019-09-11.fasta)
 
 Total Number of sequences: 613
 

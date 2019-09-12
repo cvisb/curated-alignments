@@ -8,13 +8,13 @@ S segment: NP -NNNNNN- GP
 
 L segment: L -NNNNNN- Z
 
-To control for alignment accuracy, a maximum likelihood (ML) phylogeny is reconstructed with RAxML using the general time-reversible (GTR) nucleotide substitution model, gamma-distributed rates among sites and bootstrap resampling with 500 replicates.
+A maximum likelihood (ML) phylogeny is reconstructed with RAxML using the general time-reversible (GTR) nucleotide substitution model, gamma-distributed rates among sites and bootstrap resampling with 500 replicates.
 
 We will be releasing such curated alignments periodically to be used by the broader community for downstream analyses.
 
 ## Lassa
 
-Alignment File: [LASV_2019-09-11.fasta](https://github.com/cvisb/curated-alignments/blob/master/LASV_NP-GP_2019-09-11.fasta)
+Alignment File: [LASV_2019-09-11.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP-GP_2019-09-11.fasta)
 
 Total Number of sequences: 613
 

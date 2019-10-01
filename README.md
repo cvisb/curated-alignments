@@ -22,7 +22,8 @@ FASTA header format:
 ```
 > ID | GenBank Accession | Species | Outcome | Country | Date
 ```
-Tree file: 
+ML Tree file: [LASV_2019-09-11.newick](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP-GP_2019-09-11.newick)
+
 
 ![LASV_NP-GP_2019-09-11.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP-GP_2019-09-11.png)
 

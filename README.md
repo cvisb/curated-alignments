@@ -83,7 +83,7 @@ Outcome
 
 ## Lassa L segment
 
-Alignment File: [LASV_L-Z_2019.11.21.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L-Z_2019.11.21.fasta)
+Alignment File: [LASV_L-Z_2019.11.22.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L-Z_2019.11.22.fasta)
 
 Total Number of sequences: 508
 

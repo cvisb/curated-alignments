@@ -2,15 +2,15 @@
 
 We periodically combine genomic sequences generated as part of our consortium with publicly available sequences. Our curated alignments do not include:
 
-   -laboratory strains (adapted, passaged, recombinant)
+   - laboratory strains (adapted, passaged, recombinant)
 
-   -sequences without a timestamp
+   - sequences without a timestamp
 
-   -subsequent timepoints, if multiple timepoints are available
+   - subsequent timepoints, if multiple timepoints are available
 
-   -duplicates (when more than one sequence is available for a single strain)
+   - duplicates (when more than one sequence is available for a single strain)
 
-   -sequences from identified hospital epidemics (Lassa dataset only)
+   - sequences from identified hospital epidemics (Lassa dataset only)
 
 
 Remaining sequences are trimmed to their coding regions, codon aligned using [mafft](https://mafft.cbrc.jp/alignment/software/tips0.html) and inspected manually. At this step we discard:

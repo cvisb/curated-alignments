@@ -15,9 +15,9 @@ We periodically combine genomic sequences generated as part of our consortium wi
 
 Remaining sequences are trimmed to their coding regions, codon aligned using [mafft](https://mafft.cbrc.jp/alignment/software/tips0.html) and inspected manually. At this step we discard:
 
-  -low quality sequences (manual curation)
+  - low quality sequences (manual curation)
 
-  -incomplete sequences (<95% of (GP+NP) or (Z+L) or (NP+VP35+VP40+GP+VP30+VP24+L) ORFs length)
+  - incomplete sequences (<95% of (GP+NP) or (Z+L) or (NP+VP35+VP40+GP+VP30+VP24+L) ORFs length)
 
 
 ORFs are arranged in sense orientation as follows:

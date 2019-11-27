@@ -43,10 +43,10 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: in progress...
+ML Tree file:
 
 
-![LASV_NP-GP_temp.jpeg](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP-GP_temp.jpeg)
+![LASV_NP_GPC_2019.11.27.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2019.11.27.png)
 
 Key:
 

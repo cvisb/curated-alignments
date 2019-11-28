@@ -156,7 +156,6 @@ Country
 
 | Code | Country | Count |
 |:--|:--|:--|
-
 |GIN | Guinea | 186 |
 | LBR | Liberia | 13 |
 | SLE | Sierra Leone | 316 |

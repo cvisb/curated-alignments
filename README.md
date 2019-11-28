@@ -142,7 +142,7 @@ FASTA header format:
 ```
 ML Tree file: in progress...
 
-![EBOV_temp.png](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_temp.png)
+![EBOV_ORFS_2019.11.27.png](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFS_2019.11.27.png)
 
 Key:
 

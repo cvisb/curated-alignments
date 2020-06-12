@@ -172,7 +172,7 @@ Outcome
 
 |Code | Outcome | Count |
 |:-- |:-- |:-- |
-| Died | Died | 84 |
+| Died | Died | 384 |
 | Discharged | Discharged | 151 |
 | Unk | Unknown | 1544 |
 

@@ -168,6 +168,8 @@ Country
 | SLE | Sierra Leone | 1359 |
 | USA | United States | 2 |
 
+*IMP = presumed imports (CHE, DEU, GBR, ITA, USA)
+
 Outcome
 
 |Code | Outcome | Count |

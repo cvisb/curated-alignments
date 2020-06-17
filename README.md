@@ -130,11 +130,9 @@ Outcome
 
 ## Ebola
 
-This dataset includes only sequences for which survival data is publicly available. It will be updated soon.
+Alignment File: [EBOV_ORFs_2020.06.12.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.06.12.fasta)
 
-Alignment File: [EBOV_ORFS_2019.11.22.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFS_2019.11.22.fasta)
-
-Total Number of sequences: 515
+Total Number of sequences: 2079
 
 FASTA header format:
 ```
@@ -142,7 +140,7 @@ FASTA header format:
 ```
 ML Tree file: in progress...
 
-![EBOV_ORFS_2019.11.27.png](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFS_2019.11.27.png)
+![EBOV_temp.png](https://github.com/cvisb/curated-alignments/blob/master/ebola/previous_versions/EBOV_temp.png)
 
 Key:
 
@@ -150,22 +148,33 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 515 |
+| Hs | *Homo sapiens* | 2079 |
 
 Country
 
 | Code | Country | Count |
 |:--|:--|:--|
-|GIN | Guinea | 186 |
-| LBR | Liberia | 13 |
-| SLE | Sierra Leone | 316 |
+| CHE | Switzerland | 1 |
+| COD | Democratic Republic of the Congo | 98 |
+| COG | Republic of the Congo | 2 |
+| DEU | Germany | 1 |
+| GAB | Gabon | 7 |
+| GBR | United Kingdom | 4 |
+| GIN | Guinea | 346 |
+| ITA | Italy | 2 |
+| LBR | Liberia | 242 |
+| MLI | Mali | 4 |
+| NGA | Nigeria | 11 |
+| SLE | Sierra Leone | 1359 |
+| USA | United States | 2 |
 
 Outcome
 
 |Code | Outcome | Count |
 |:-- |:-- |:-- |
-| Died | Died | 370 |
-| Discharged | Discharged | 145 |
+| Died | Died | 384 |
+| Discharged | Discharged | 151 |
+| Unk | Unknown | 1544 |
 
 ---
 **Andersen Lab**  

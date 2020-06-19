@@ -2,7 +2,7 @@
 
 We periodically combine genomic sequences generated as part of our consortium with publicly available sequences. Our curated alignments do not include:
 
-   - laboratory strains (adapted, passaged, recombinant)
+   - laboratory strains (adapted, passaged, recombinant, antiviral & vaccine experiments)
 
    - sequences without a timestamp
 

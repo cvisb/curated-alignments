@@ -132,7 +132,7 @@ Outcome
 
 Alignment File: 
 
-Total Number of sequences: 2079
+Total Number of sequences: 2078
 
 FASTA header format:
 ```

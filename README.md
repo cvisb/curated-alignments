@@ -130,7 +130,7 @@ Outcome
 
 ## Ebola
 
-Alignment File: 
+Alignment File: [EBOV_ORFs_2020.06.22.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.06.22.fasta)
 
 Total Number of sequences: 2078
 

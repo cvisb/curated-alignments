@@ -2,7 +2,7 @@
 
 We periodically combine genomic sequences generated as part of our consortium with publicly available sequences. Our curated alignments do not include:
 
-   - laboratory strains (adapted, passaged, recombinant)
+   - laboratory strains (adapted, passaged, recombinant, antiviral & vaccine experiments)
 
    - sequences without a timestamp
 
@@ -130,9 +130,9 @@ Outcome
 
 ## Ebola
 
-Alignment File: [EBOV_ORFs_2020.06.12.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.06.12.fasta)
+Alignment File: 
 
-Total Number of sequences: 2079
+Total Number of sequences: 2078
 
 FASTA header format:
 ```
@@ -140,35 +140,28 @@ FASTA header format:
 ```
 ML Tree file: in progress...
 
-![EBOV_ORFS_tree_2020.06.16.png](https://github.com/cvisb/curated-alignments/blob/master/ebola/previous_versions/EBOV_ORFS_tree_2020.06.16.png)
-
 Key:
 
 Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 2079 |
+| Hs | *Homo sapiens* | 2078 |
 
 Country
 
 | Code | Country | Count |
 |:--|:--|:--|
-| CHE | Switzerland | 1 |
 | COD | Democratic Republic of the Congo | 98 |
 | COG | Republic of the Congo | 2 |
-| DEU | Germany | 1 |
 | GAB | Gabon | 7 |
-| GBR | United Kingdom | 4 |
 | GIN | Guinea | 346 |
-| ITA | Italy | 2 |
 | LBR | Liberia | 242 |
 | MLI | Mali | 4 |
 | NGA | Nigeria | 11 |
-| SLE | Sierra Leone | 1359 |
-| USA | United States | 2 |
-
-*IMP = presumed imports (CHE, DEU, GBR, ITA, USA)
+| SLE | Sierra Leone | 1362 |
+| Unk | Unknown |
+| USA | United States | 1 |
 
 Outcome
 
@@ -176,7 +169,7 @@ Outcome
 |:-- |:-- |:-- |
 | Died | Died | 384 |
 | Discharged | Discharged | 151 |
-| Unk | Unknown | 1544 |
+| Unk | Unknown | 1543 |
 
 ---
 **Andersen Lab**  

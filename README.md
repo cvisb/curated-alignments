@@ -43,7 +43,7 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file:
+ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/RAxML_bipartitions.LASV_NP_GPC_2019.11.26.newick)
 
 
 ![LASV_NP_GPC_2019.11.27.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2019.11.27.png)

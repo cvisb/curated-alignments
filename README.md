@@ -138,7 +138,8 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: in progress...
+ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/ebola/RAxML_bipartitions.EBOV_ORFs_2020.06.22.newick)
+![EBOV_ORFS_2020.06.22.png](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFS_2020.06.22.png)
 
 Key:
 
@@ -160,7 +161,7 @@ Country
 | MLI | Mali | 4 |
 | NGA | Nigeria | 11 |
 | SLE | Sierra Leone | 1362 |
-| Unk | Unknown |
+| Unk | Unknown | 5 |
 | USA | United States | 1 |
 
 Outcome

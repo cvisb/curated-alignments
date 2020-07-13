@@ -29,7 +29,7 @@ Lassa L segment: L -NNN- Z
 Ebola: NP -NNN- VP35 -NNN- VP40 -NNN- GP -NNN- VP30 -NNN- VP24 -NNN- L
 
 
-For each alignment, a maximum likelihood (ML) phylogeny is reconstructed with RAxML using the general time-reversible (GTR) nucleotide substitution model, gamma-distributed rates among sites and bootstrap resampling with 500 replicates.
+For each alignment, a maximum likelihood (ML) phylogeny is reconstructed with RAxML using the general time-reversible (GTR) nucleotide substitution model, gamma-distributed rates among sites and bootstrap resampling with 500 (LASV) or 100 (EBOV) replicates.
 
 We will be releasing such curated alignments periodically to be used by the broader community for downstream analyses.
 

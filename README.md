@@ -17,12 +17,12 @@ Remaining sequences are trimmed to their coding regions, codon aligned using [ma
 
   - low quality sequences (manual curation)
 
-  - incomplete sequences (<95% of (GP+NP) or (Z+L) or (NP+VP35+VP40+GP+VP30+VP24+L) ORFs length)
+  - incomplete sequences (<95% of (NP+GPC) or (L+Z) or (NP+VP35+VP40+GP+VP30+VP24+L) ORFs length)
 
 
 ORFs are arranged in sense orientation as follows:
 
-Lassa S segment: NP -NNN- GP
+Lassa S segment: NP -NNN- GPC
 
 Lassa L segment: L -NNN- Z
 

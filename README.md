@@ -13,7 +13,7 @@ We periodically combine genomic sequences generated as part of our consortium wi
    - sequences from identified hospital epidemics (Lassa dataset only)
 
 
-Remaining sequences are trimmed to their coding regions, codon aligned using [mafft](https://mafft.cbrc.jp/alignment/software/tips0.html) and inspected manually. At this step we discard:
+Remaining sequences are trimmed to their coding regions, aligned using [mafft](https://mafft.cbrc.jp/alignment/software/tips0.html) and inspected manually. At this step we discard:
 
   - low quality sequences (manual curation)
 

@@ -10,8 +10,6 @@ We periodically combine genomic sequences generated as part of our consortium wi
 
    - duplicates (when more than one sequence is available for a single strain)
 
-   - sequences from identified hospital epidemics (Lassa dataset only)
-
 
 Remaining sequences are trimmed to their coding regions, aligned using [mafft](https://mafft.cbrc.jp/alignment/software/tips0.html) and inspected manually. At this step we discard:
 
@@ -130,16 +128,15 @@ Outcome
 
 ## Ebola
 
-Alignment File: [EBOV_ORFs_2020.06.22.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.06.22.fasta)
+Alignment File: [EBOV_ORFs_2020.08.04.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.08.04.fasta)
 
-Total Number of sequences: 2078
+Total Number of sequences: 2684
 
 FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/ebola/RAxML_bipartitions.EBOV_ORFs_2020.06.22.newick)
-![EBOV_ORFS_2020.06.22.png](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFS_2020.06.22.png)
+ML Tree file: In progress ...
 
 Key:
 
@@ -147,13 +144,13 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 2078 |
+| Hs | *Homo sapiens* | 2684 |
 
 Country
 
 | Code | Country | Count |
 |:--|:--|:--|
-| COD | Democratic Republic of the Congo | 98 |
+| COD | Democratic Republic of the Congo | 704 |
 | COG | Republic of the Congo | 2 |
 | GAB | Gabon | 7 |
 | GIN | Guinea | 346 |
@@ -170,7 +167,7 @@ Outcome
 |:-- |:-- |:-- |
 | Died | Died | 384 |
 | Discharged | Discharged | 151 |
-| Unk | Unknown | 1543 |
+| Unk | Unknown | 2149 |
 
 ---
 **Andersen Lab**  

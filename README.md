@@ -33,18 +33,15 @@ We will be releasing such curated alignments periodically to be used by the broa
 
 ## Lassa S segment
 
-Alignment File: [LASV_NP_GPC_2019.11.21.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2019.11.21.fasta)
+Alignment File: [LASV_NP_GPC_2020.11.19.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.19.fasta)
 
-Total Number of sequences: 632
+Total Number of sequences: 652
 
 FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/RAxML_bipartitions.LASV_NP_GPC_2019.11.26.newick)
-
-
-![LASV_NP_GPC_2019.11.27.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2019.11.27.png)
+ML Tree file: In progress...
 
 Key:
 
@@ -52,46 +49,45 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 589 |
+| Hs | *Homo sapiens* | 608 |
 | Hp | *Hylomyscus pamfi* | 1 |
 | Me | *Mastomys erythroleucus* | 9 |
-| Mn | *Mastomys natalensis* | 31 |
+| Mn | *Mastomys natalensis* | 32 |
 | Unk | *Unknown* | 2 |
 
 Country
 
 | Code | Country | Count |
 |:--|:--|:--|
-|CIV | Ivory Coast | 13 |
-|GHA | Ghana | 1 |
-|GIN | Guinea | 11 |
-| LBR | Liberia | 24 |
+| BEN | Benin | 11 |
+| CIV | Ivory Coast | 13 |
+| GHA | Ghana | 1 |
+| GIN | Guinea | 11 |
+| LBR | Liberia | 25 |
 | MLI | Mali | 5 |
 | NGA | Nigeria | 481 |
-| SLE | Sierra Leone | 95 |
+| SLE | Sierra Leone | 103 |
 | TGO | Togo | 2 |
 
 Outcome
 
 |Code | Outcome | Count |
 |:-- |:-- |:-- |
-| Died | Died | 119 |
-| Discharged | Discharged | 90 |
-| Unk | Unknown | 423 |
+| Died | Died | 129 |
+| Discharged | Discharged | 96 |
+| Unk | Unknown | 427 |
 
 ## Lassa L segment
 
-Alignment File: [LASV_L_Z_2019.11.22.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2019.11.22.fasta)
+Alignment File: [LASV_L_Z_2020.11.20.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.20.fasta)
 
-Total Number of sequences: 508
+Total Number of sequences: 520
 
 FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/RAxML_bipartitions.LASV_L_Z_2019.11.26.newick)
-
-![LASV_L_Z_2019.11.27.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2019.11.27.png)
+ML Tree file: In progress ...
 
 Key:
 
@@ -99,20 +95,21 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 469 |
+| Hs | *Homo sapiens* | 480 |
 | Hp | *Hylomyscus pamfi* | 1 |
 | Me | *Mastomys erythroleucus* | 9 |
 | Mn | *Mastomys natalensis* | 28 |
-| Unk | *Unknown* | 1 |
+| Unk | *Unknown* | 2 |
 
 Country
 
 | Code | Country | Count |
 |:--|:--|:--|
-|CIV | Ivory Coast | 13 |
-|GHA | Ghana | 1 |
-|GIN | Guinea | 11 |
-| LBR | Liberia | 20 |
+| BEN | Benin | 10 |
+| CIV | Ivory Coast | 13 |
+| GHA | Ghana | 1 |
+| GIN | Guinea | 11 |
+| LBR | Liberia | 22 |
 | MLI | Mali | 3 |
 | NGA | Nigeria | 381 |
 | SLE | Sierra Leone | 77 |
@@ -122,9 +119,9 @@ Outcome
 
 |Code | Outcome | Count |
 |:-- |:-- |:-- |
-| Died | Died | 106 |
-| Discharged | Discharged | 76 |
-| UNK | Unknown | 326 |
+| Died | Died | 113 |
+| Discharged | Discharged | 79 |
+| UNK | Unknown | 328 |
 
 ## Ebola
 

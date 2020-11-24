@@ -33,7 +33,7 @@ We will be releasing such curated alignments periodically to be used by the broa
 
 ## Lassa S segment
 
-Alignment File: [LASV_NP_GPC_2020.11.19.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.19.fasta)
+Alignment File: [LASV_NP_GPC_2020.11.23.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.23.fasta)
 
 Total Number of sequences: 652
 
@@ -79,7 +79,7 @@ Outcome
 
 ## Lassa L segment
 
-Alignment File: [LASV_L_Z_2020.11.20.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.20.fasta)
+Alignment File: [LASV_L_Z_2020.11.23.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.23.fasta)
 
 Total Number of sequences: 520
 

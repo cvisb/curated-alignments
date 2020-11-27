@@ -137,8 +137,9 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: In progress ...
+ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.08.04.newick)
 
+![EBOV_ORFS_2020.11.26v2.jpg](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFS_2020.11.26v2.jpg)
 Key:
 
 Species

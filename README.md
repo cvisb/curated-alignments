@@ -41,7 +41,9 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: In progress...
+ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/RAxML_bipartitions.LASV_NP_GPC_2020.11.23.newick)
+
+![LASV_NP_GPC_2020.11.26.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.26.png)
 
 Key:
 
@@ -87,7 +89,9 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: In progress ...
+ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/RAxML_bipartitions.LASV_L_Z_2020.11.23.newick)
+
+![LASV_L_Z_2020.11.26.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.26.png)
 
 Key:
 

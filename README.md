@@ -27,7 +27,7 @@ Lassa L segment: L -NNN- Z
 Ebola: NP -NNN- VP35 -NNN- VP40 -NNN- GP -NNN- VP30 -NNN- VP24 -NNN- L
 
 
-For each alignment, a maximum likelihood (ML) phylogeny is reconstructed with RAxML using the general time-reversible (GTR) nucleotide substitution model, gamma-distributed rates among sites and bootstrap resampling with 500 (LASV) or 100 (EBOV) replicates.
+For each alignment, a maximum likelihood (ML) phylogeny is reconstructed with IQ-TREE with ultrafast bootstrap approximation (1000 replicates).
 
 We will be releasing such curated alignments periodically to be used by the broader community for downstream analyses.
 
@@ -41,7 +41,7 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/RAxML_bipartitions.LASV_NP_GPC_2020.11.23.newick)
+ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.23.newick)
 
 ![LASV_NP_GPC_2020.11.26.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.26.png)
 
@@ -89,7 +89,7 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/RAxML_bipartitions.LASV_L_Z_2020.11.23.newick)
+ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.23.newick)
 
 ![LASV_L_Z_2020.11.26.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.26.png)
 

@@ -41,9 +41,7 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.23.newick)
-
-![LASV_NP_GPC_2020.11.26.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.26.png)
+ML Tree file: in progress...
 
 Key:
 
@@ -89,9 +87,7 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.23.newick)
-
-![LASV_L_Z_2020.11.26.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.26.png)
+ML Tree file: in progress...
 
 Key:
 
@@ -137,9 +133,8 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [newick file](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.08.04.newick)
+ML Tree file: in progress...
 
-![EBOV_ORFS_2020.11.26v2.jpg](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFS_2020.11.26v2.jpg)
 Key:
 
 Species

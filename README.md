@@ -49,10 +49,10 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 608 |
+| Hs | *Homo sapiens* | 624 |
 | Hp | *Hylomyscus pamfi* | 1 |
 | Me | *Mastomys erythroleucus* | 9 |
-| Mn | *Mastomys natalensis* | 32 |
+| Mn | *Mastomys natalensis* | 54 |
 | Unk | *Unknown* | 2 |
 
 Country
@@ -65,17 +65,17 @@ Country
 | GIN | Guinea | 11 |
 | LBR | Liberia | 25 |
 | MLI | Mali | 5 |
-| NGA | Nigeria | 481 |
-| SLE | Sierra Leone | 103 |
+| NGA | Nigeria | 486 |
+| SLE | Sierra Leone | 136 |
 | TGO | Togo | 2 |
 
 Outcome
 
 |Code | Outcome | Count |
 |:-- |:-- |:-- |
-| Died | Died | 129 |
-| Discharged | Discharged | 96 |
-| Unk | Unknown | 427 |
+| Died | Died | 134 |
+| Discharged | Discharged | 97 |
+| Unk | Unknown | 459 |
 
 ## Lassa L segment
 
@@ -95,10 +95,10 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 480 |
+| Hs | *Homo sapiens* | 486 |
 | Hp | *Hylomyscus pamfi* | 1 |
 | Me | *Mastomys erythroleucus* | 9 |
-| Mn | *Mastomys natalensis* | 28 |
+| Mn | *Mastomys natalensis* | 36 |
 | Unk | *Unknown* | 2 |
 
 Country
@@ -111,17 +111,17 @@ Country
 | GIN | Guinea | 11 |
 | LBR | Liberia | 22 |
 | MLI | Mali | 3 |
-| NGA | Nigeria | 381 |
-| SLE | Sierra Leone | 77 |
+| NGA | Nigeria | 386 |
+| SLE | Sierra Leone | 86 |
 | TGO | Togo | 2 |
 
 Outcome
 
 |Code | Outcome | Count |
 |:-- |:-- |:-- |
-| Died | Died | 113 |
+| Died | Died | 114 |
 | Discharged | Discharged | 79 |
-| UNK | Unknown | 328 |
+| UNK | Unknown | 341 |
 
 ## Ebola
 
@@ -141,21 +141,21 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 2684 |
+| Hs | *Homo sapiens* | 2790 |
 
 Country
 
 | Code | Country | Count |
 |:--|:--|:--|
-| COD | Democratic Republic of the Congo | 704 |
+| COD | Democratic Republic of the Congo | 801 |
 | COG | Republic of the Congo | 2 |
 | GAB | Gabon | 7 |
-| GIN | Guinea | 346 |
-| LBR | Liberia | 242 |
+| GIN | Guinea | 354 |
+| LBR | Liberia | 243 |
 | MLI | Mali | 4 |
 | NGA | Nigeria | 11 |
 | SLE | Sierra Leone | 1362 |
-| Unk | Unknown | 5 |
+| Unk | Unknown | 6 |
 | USA | United States | 1 |
 
 Outcome
@@ -164,7 +164,7 @@ Outcome
 |:-- |:-- |:-- |
 | Died | Died | 384 |
 | Discharged | Discharged | 151 |
-| Unk | Unknown | 2149 |
+| Unk | Unknown | 2255 |
 
 ---
 **Andersen Lab**  

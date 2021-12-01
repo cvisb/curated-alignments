@@ -35,7 +35,7 @@ We will be releasing such curated alignments periodically to be used by the broa
 
 Alignment File: [LASV_NP_GPC_2020.11.23.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.23.fasta)
 
-Total Number of sequences: 652
+Total Number of sequences: 690
 
 FASTA header format:
 ```
@@ -81,7 +81,7 @@ Outcome
 
 Alignment File: [LASV_L_Z_2020.11.23.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.23.fasta)
 
-Total Number of sequences: 520
+Total Number of sequences: 534
 
 FASTA header format:
 ```
@@ -127,7 +127,7 @@ Outcome
 
 Alignment File: [EBOV_ORFs_2020.08.04.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.08.04.fasta)
 
-Total Number of sequences: 2684
+Total Number of sequences: 2790
 
 FASTA header format:
 ```

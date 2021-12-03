@@ -43,6 +43,8 @@ FASTA header format:
 ```
 ML Tree file: [LASV_NP_GPC_2021.11.24.newick](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.24.newick)
 
+![LASV_NP_GPC_2021.11.24.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.24.png)
+
 Key:
 
 Species

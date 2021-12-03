@@ -33,7 +33,7 @@ We will be releasing such curated alignments periodically to be used by the broa
 
 ## Lassa S segment
 
-Alignment File: [LASV_NP_GPC_2020.11.23.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2020.11.23.fasta)
+Alignment File: [LASV_NP_GPC_2021.11.24.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.24.fasta)
 
 Total Number of sequences: 690
 
@@ -41,7 +41,7 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: in progress...
+ML Tree file: [LASV_NP_GPC_2021.11.24.newick](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.24.newick)
 
 Key:
 
@@ -79,7 +79,7 @@ Outcome
 
 ## Lassa L segment
 
-Alignment File: [LASV_L_Z_2020.11.23.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2020.11.23.fasta)
+Alignment File: [LASV_L_Z_2021.11.24.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2021.11.24.fasta)
 
 Total Number of sequences: 534
 
@@ -87,7 +87,7 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: in progress...
+ML Tree file: [LASV_L_Z_2021.11.24.newick](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2021.11.24.newick)
 
 Key:
 
@@ -125,7 +125,7 @@ Outcome
 
 ## Ebola
 
-Alignment File: [EBOV_ORFs_2020.08.04.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2020.08.04.fasta)
+Alignment File: [EBOV_ORFs_2021.11.24.fasta](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2021.11.24.fasta)
 
 Total Number of sequences: 2790
 
@@ -133,7 +133,7 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: in progress...
+ML Tree file: [EBOV_ORFs_2021.11.24.newick](https://github.com/cvisb/curated-alignments/blob/master/ebola/EBOV_ORFs_2021.11.24.newick)
 
 Key:
 

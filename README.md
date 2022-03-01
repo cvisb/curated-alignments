@@ -33,7 +33,7 @@ We will be releasing such curated alignments periodically to be used by the broa
 
 ## Lassa S segment
 
-Alignment File: [LASV_NP_GPC_2021.11.24.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.24.fasta)
+Alignment File: [LASV_NP_GPC_2021.11.25.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.25.fasta)
 
 Total Number of sequences: 690
 
@@ -41,9 +41,9 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [LASV_NP_GPC_2021.11.24.newick](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.24.newick)
+ML Tree file: [LASV_NP_GPC_2021.11.25.newick](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.25.newick)
 
-![LASV_NP_GPC_2021.11.24.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.24.png)
+![LASV_NP_GPC_2021.11.25.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_NP_GPC_2021.11.25.png)
 
 Key:
 
@@ -81,7 +81,7 @@ Outcome
 
 ## Lassa L segment
 
-Alignment File: [LASV_L_Z_2021.11.24.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2021.11.24.fasta)
+Alignment File: [LASV_L_Z_2021.11.24.fasta](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2021.11.25.fasta)
 
 Total Number of sequences: 534
 
@@ -89,8 +89,8 @@ FASTA header format:
 ```
 > GenBank Accession | Species | Outcome | Country | Date
 ```
-ML Tree file: [LASV_L_Z_2021.11.24.newick](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2021.11.24.newick)
-![LASV_L_Z_2021.11.24.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2021.11.24.png)
+ML Tree file: [LASV_L_Z_2021.11.24.newick](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2021.11.25.newick)
+![LASV_L_Z_2021.11.24.png](https://github.com/cvisb/curated-alignments/blob/master/lassa/LASV_L_Z_2021.11.25.png)
 
 Key:
 

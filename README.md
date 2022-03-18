@@ -51,10 +51,10 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 624 |
+| Hs | *Homo sapiens* | 625 |
 | Hp | *Hylomyscus pamfi* | 1 |
 | Me | *Mastomys erythroleucus* | 9 |
-| Mn | *Mastomys natalensis* | 54 |
+| Mn | *Mastomys natalensis* | 53 |
 | Unk | *Unknown* | 2 |
 
 Country
@@ -63,8 +63,7 @@ Country
 |:--|:--|:--|
 | BEN | Benin | 11 |
 | CIV | Ivory Coast | 13 |
-| GHA | Ghana | 1 |
-| GIN | Guinea | 11 |
+| GIN | Guinea | 12 |
 | LBR | Liberia | 25 |
 | MLI | Mali | 5 |
 | NGA | Nigeria | 486 |
@@ -98,10 +97,10 @@ Species
 
 | Code | Species | Count |
 |:---|:---|:---|
-| Hs | *Homo sapiens* | 486 |
+| Hs | *Homo sapiens* | 487 |
 | Hp | *Hylomyscus pamfi* | 1 |
 | Me | *Mastomys erythroleucus* | 9 |
-| Mn | *Mastomys natalensis* | 36 |
+| Mn | *Mastomys natalensis* | 35 |
 | Unk | *Unknown* | 2 |
 
 Country
@@ -110,8 +109,7 @@ Country
 |:--|:--|:--|
 | BEN | Benin | 10 |
 | CIV | Ivory Coast | 13 |
-| GHA | Ghana | 1 |
-| GIN | Guinea | 11 |
+| GIN | Guinea | 12 |
 | LBR | Liberia | 22 |
 | MLI | Mali | 3 |
 | NGA | Nigeria | 386 |
